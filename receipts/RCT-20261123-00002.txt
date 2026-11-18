@@ -1,0 +1,13 @@
+====================================================
+      KENYA RAILWAYS - MADARAKA EXPRESS (SGR)
+                 TICKET RECEIPT
+====================================================
+Receipt no : RCT-20261123-00002
+Passenger  : Mason
+Journey    : Nairobi -> Voi, 2026-11-23 dep 09:00, Coach 2 Seat 2 (Premium)
+Paid via   : CARD ending 2349
+Reference  : C06JLYW3YV
+Amount paid: KES 1370
+Paid on    : 2026-11-18 22:37
+Boarding code: SGR|RCT-20261123-00002|Mason|C06JLYW3YV
+====================================================

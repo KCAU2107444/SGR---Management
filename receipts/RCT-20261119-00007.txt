@@ -1,0 +1,13 @@
+====================================================
+      KENYA RAILWAYS - MADARAKA EXPRESS (SGR)
+                 TICKET RECEIPT
+====================================================
+Receipt no : RCT-20261119-00007
+Passenger  : Mason
+Journey    : Nairobi -> Mombasa, 2026-11-19 dep 08:00, Coach 1 Seat 4 (First Class)
+Paid via   : M-PESA
+Reference  : SY21BQA6A1
+Amount paid: KES 2970
+Paid on    : 2026-11-18 23:43
+Boarding code: SGR|RCT-20261119-00007|Mason|SY21BQA6A1
+====================================================

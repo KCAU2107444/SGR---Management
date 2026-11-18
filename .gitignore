@@ -1,5 +1,0 @@
-target/
-*.class
-*.bak
-database.properties
-.vscode/
